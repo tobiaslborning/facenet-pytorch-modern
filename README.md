@@ -1,4 +1,5 @@
-# Face Recognition Using Pytorch 
+# Face Recognition Using Pytorch - w/ Modern pytorch deps
+____this is a modified version of facenet pytorch, where the setup.py has been modified to accept newer versions of torch and torchvision____
 
 *You can also read a translated version of this file [in Chinese 简体中文版](README_cn.md).*
 
